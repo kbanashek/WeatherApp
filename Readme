@@ -1,0 +1,13 @@
+yarn install
+
+cd ios
+pod install
+cd ..
+
+react-native start
+
+react-native run-ios 
+
+||
+
+react-native run-android
